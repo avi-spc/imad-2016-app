@@ -26,6 +26,7 @@ body {
     text-align:center;
 }
 #nav{
+    margin-top:20px;
     background:skyblue;
     padding:1px;
     opacity:.7;
