@@ -51,7 +51,7 @@ body {
 #nav ul li:hover{
     background:orangered;
     border-radius:3px;
-    transition:all 0.60s;
+    transition:all 0.40s;
 }
 #sub{
     margin-left:600px;
