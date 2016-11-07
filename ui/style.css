@@ -37,6 +37,7 @@ body {
 }
 #nav ul li{
     padding:2px; 
+    margin:4px;
     display:inline;
 }
 #nav ul li:hover{
