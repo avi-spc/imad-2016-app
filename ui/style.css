@@ -67,6 +67,7 @@ body {
 }
 #sub:hover{
     background:DodgerBlue;
+    transition:all .5s;
 }
 #sidebar{
     background:RosyBrown;
