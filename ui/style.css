@@ -20,7 +20,7 @@ body {
 
 .logo {
     height: 200px;
-    margin:0 auto;
+   float:none;
     border-radius:10px;
     
 }
