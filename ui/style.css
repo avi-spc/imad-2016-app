@@ -38,5 +38,5 @@ body {
 }
 #nav ul li:hover{
     background:red;
-    transition:all 60s;
+    transition:all 0.60s;
 }
