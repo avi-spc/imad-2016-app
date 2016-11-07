@@ -49,7 +49,8 @@ body {
     transition:all 0.60s;
 }
 #sub{
-    margin-left:40px;
+    margin-left:300px;
+    margin-right:300px;
     margin-top:20px;
     font-size:20px;
     padding-right:0px;
