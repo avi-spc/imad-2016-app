@@ -3,6 +3,7 @@ body {
     background-color:aquamarine;
     margin-top: 75px;
     color:black;
+    font-size:20px;
 }
 
 .center {
@@ -20,4 +21,6 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.wel{
+    font-size:40px;
+}
