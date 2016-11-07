@@ -20,6 +20,7 @@ body {
 
 .logo {
     height: 200px;
+    text-align:"center";
     border-radius:10px;
     
 }
