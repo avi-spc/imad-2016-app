@@ -35,8 +35,7 @@ body {
     
 }
 #nav ul li{
-    padding-right:20px;
-    padding:20px;
+    
     display:inline;
 }
 #nav ul li:hover{
@@ -44,6 +43,8 @@ body {
     transition:all 0.60s;
 }
 #sub{
+    font-size:20px;
+    padding-right:20px;
     padding:20px;
     background:red;
 }
