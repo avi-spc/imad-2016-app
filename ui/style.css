@@ -18,8 +18,10 @@ body {
     font-weight: bold;
 }
 
-.img-medium {
+.logo {
     height: 200px;
+    border-radius:10px;
+    
 }
 #wel{
     font-size:40px;
