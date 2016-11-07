@@ -33,7 +33,7 @@ body {
     border-radius:5px;
 }
 #nav a{
-    color:gold;
+    color:cornsilk;
     text-decoration:none;
     font-size:20px;
     margin:4px;
@@ -44,7 +44,7 @@ body {
     display:inline;
 }
 #nav ul li:hover{
-    background:LightSalmon;
+    background:tomato;
     border-radius:3px;
     transition:all 0.60s;
 }
