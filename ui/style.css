@@ -29,6 +29,7 @@ body {
     background:skyblue;
     padding:1px;
     opacity:.7;
+    border-radius:5px;
 }
 #nav a{
     text-decoration:none;
@@ -40,6 +41,7 @@ body {
 }
 #nav ul li:hover{
     background:silver;
+    border-radius:3px;
     transition:all 0.60s;
 }
 #sub{
