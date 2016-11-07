@@ -27,6 +27,7 @@ body {
 }
 #nav{
     background:skyblue;
+    padding:20px;
 }
 #nav a{
     text-decoration:none;
