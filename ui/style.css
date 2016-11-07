@@ -38,6 +38,6 @@ body {
     display:inline;
 }
 #nav ul li:hover{
-    background:red;
+    background:silver;
     transition:all 0.60s;
 }
