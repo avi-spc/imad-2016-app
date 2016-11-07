@@ -30,6 +30,7 @@ body {
     
 }
 #nav ul li{
+    background:blue;
     display:inline;
 }
 #nav ul li:hover{
