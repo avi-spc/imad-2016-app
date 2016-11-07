@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color:aquamarine;
+    background:"C:\Users\dell\Desktop\kartandtinki1_photo-wallpapers_02";
     margin-top: 75px;
     color:black;
     font-size:15px;
@@ -51,7 +51,7 @@ body {
 #sub{
     margin-top:20px;
     font-size:20px;
-    padding-right:20px;
+    padding-right:0px;
     padding:20px;
     background:red;
 }
