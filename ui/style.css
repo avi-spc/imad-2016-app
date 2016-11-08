@@ -96,6 +96,7 @@
     color:red;
     margin-left:30px;
     font-size:20px;
+    box-shadow: 0 0 5px 5px #888;
 }
 #lo{
     font-family:zero;
@@ -111,7 +112,6 @@
 }
 #box1{
     margin-left:75px;
-    box-shadow: 0 0 5px 5px #888;
 }
 #box2{
     margin-left:81px;
