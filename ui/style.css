@@ -92,6 +92,10 @@ body {
     border-radius:3px;
     box-shadow:none;
 }
+#lo{
+    background:lightgray;
+    padding:10px;
+}
 
 
 
