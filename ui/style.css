@@ -94,11 +94,11 @@ body {
     color:red;
 }
 #lo{
-    background:red;
+    background:rosybrown;
     margin-left:250px;
     margin-right:250px;
     font-size:20px;
-    padding-right:0px;
+    padding:10px;
     border-radius:5px;
     text-align:center;
     color:white;
