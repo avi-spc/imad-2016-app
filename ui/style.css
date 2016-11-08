@@ -96,7 +96,7 @@ body {
     font-size:20px;
 }
 #lo{
-    font-style:Rampung;
+    font:Rampung;
     background:rosybrown;
     margin-left:200px;
     margin-right:200px;
