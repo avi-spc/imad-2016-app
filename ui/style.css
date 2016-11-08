@@ -91,6 +91,7 @@ body {
 #user{
     border-radius:3px;
     box-shadow:none;
+    color:red;
 }
 #lo{
     background:red;
@@ -99,7 +100,7 @@ body {
     margin:10px;
     font-size:20px;
     padding-right:0px;
-   
+    
     border-radius:5px;
     text-align:center;
     color:white;
