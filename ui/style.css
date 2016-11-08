@@ -111,10 +111,7 @@
 }
 #box1{
     margin-left:75px;
-    
--moz-box-shadow: inset 0 0 5px 5px #888;
--webkit-box-shadow: inset 0 0 5px 5px#888;
-box-shadow: inset 0 0 5px 5px #888;
+    box-shadow: inset 0 0 5px 5px #888;
 }
 #box2{
     margin-left:81px;
