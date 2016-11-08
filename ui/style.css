@@ -90,7 +90,7 @@ body {
 }
 #user{
     border-radius:3px;
-    box-shadow:60px -16px teal;
+    box-shadow:0 0 5px #888;
     color:red;
     margin-left:30px;
     font-size:20px;
