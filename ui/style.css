@@ -83,8 +83,8 @@ body {
     margin-top:500px;
     margin-left:500px;
     padding:20px;
-    padding-left:80px;
     border-radius:5px;
+    opacity:.5;
 }
 #user{
     border-radius:3px;
