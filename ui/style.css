@@ -2,6 +2,7 @@ body{
     font-family: sans-serif;
     background:url(http://www.planwallpaper.com/static/images/nature-wallpapers-hd.jpg);
     background-attachment:fixed;
+    background-size:cover;
     margin-top: 75px;
     color:white;
     font-size:15px;
