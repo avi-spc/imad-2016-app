@@ -94,6 +94,7 @@ body {
 }
 #lo{
     background:lightgray;
+    border-radius:3px;
     margin-left:250px;
     margin-right:500px;
     margin:10px;
