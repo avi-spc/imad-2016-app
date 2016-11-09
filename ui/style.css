@@ -95,7 +95,7 @@ body{
     border-radius:3px;
     box-shadow:0 0 5px #888;
     color:red;
-    margin-left:50px;
+    margin-left:30px;
     font-size:20px;
     ;
 }
@@ -112,10 +112,10 @@ body{
     color:white;
 }
 #box1{
-    margin-left:75px;
+    margin-left:95px;
 }
 #box2{
-    margin-left:81px;
+    margin-left:101px;
 }
 
 
