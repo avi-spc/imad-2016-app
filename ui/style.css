@@ -37,7 +37,7 @@ body{
     background:CadetBlue;
     opacity:.8;
     border-radius:5px;
-     padding:.002%;
+    padding:.002%;
 }
 #nav a{
     color:cornsilk;
@@ -48,7 +48,7 @@ body{
     text-align:center;
 }
 #nav ul li{
-   margin-left:25px;
+   margin-left:30px;
     padding:2px; 
     display:inline; 
 }
