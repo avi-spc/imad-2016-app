@@ -49,6 +49,7 @@ body{
     display:inline;
 }
 #nav ul li:hover{
+    line-height:30px;
     background:orangered;
     border-radius:3px;
     transition:all 0.40s;
