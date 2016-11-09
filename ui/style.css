@@ -135,18 +135,17 @@ body{
     padding:10px; 
     display:inline;
 }
-#pro ul li:hover{
+#main:hover{
     background:orangered;
     border-radius:3px;
     transition:all 0.40s;
 }
-#pro ul li ul li{
+#in{
    margin-left:60px;
     padding:10px; 
     display:none;
 }
-
-#pro ul li ul li:hover {
+#in:hover {
    display:block;
 
 
