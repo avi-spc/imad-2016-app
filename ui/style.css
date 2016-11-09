@@ -130,22 +130,22 @@ body{
     padding:.004%;
 }
 
-#main{
+#pro ul li{
    margin-left:60px;
     padding:10px; 
     display:inline;
 }
-#main:hover{
+#pro ul li:hover{
     background:orangered;
     border-radius:3px;
     transition:all 0.40s;
 }
-#in{
+#pro ul ul{
    margin-left:60px;
     padding:10px; 
     display:none;
 }
-#in:hover {
+#pro ul li:hover>ul {
    display:block;
 
 
