@@ -143,10 +143,10 @@ body{
 #pro ul ul{
     position:absolute;
     padding:10px; 
-    display:none;
+    visibility:hidden;
 }
 #pro ul li:hover >ul {
-   display:block;
+   visibility:visible;
 }
 
 
