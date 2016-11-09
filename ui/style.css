@@ -140,11 +140,12 @@ body{
     border-radius:3px;
     transition:all 0.40s;
 }
-#pro ul li ul li{
+#pro ul ul{
+    position:absolute;
     padding:10px; 
     display:none;
 }
-#pro ul li:hover ul li {
+#pro ul li:hover >ul {
    display:block;
 }
 
