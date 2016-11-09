@@ -45,6 +45,7 @@ body{
     text-align:center;
 }
 #nav ul li{
+    text-align:center;
     padding:2px; 
     display:inline; 
 }
