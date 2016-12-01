@@ -6,7 +6,7 @@
     $name=$_POST['user'];
     $pa=$_POST['pass'];
     
-    $con=mysql_connect("localhost:5432","avi-spc","db-avi-spc-65624","avi-spc");
+    $con=mysql_connect("localhost","avi-spc","db-avi-spc-65624","avi-spc");
     if(mysql_query("insert into Login values('$name','$pa')")
     {
     echo"Valus stored successfully";
