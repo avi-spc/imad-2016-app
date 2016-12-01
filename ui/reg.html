@@ -1,12 +1,29 @@
 <!DOCTYPE html>
 <html>
+    <?php
+    if(isset($_POST['Submit']))
+    {
+    $name=$_POST['user'];
+    $pa=$_POST['pass'];
+    
+    $con=mysql_connect("localhost:5432","avi-spc","db-avi-spc-65624","avi-spc");
+    if(mysql_query("insert into Login values('$name','$pa')")
+    {
+    echo"Valus stored successfully";
+    }
+    else{
+    echo"Failed";
+    }
+    
+    }
+    ?>
     <head>
         <title>Register</title>
     </head>
         <body>
         <form action='reg.html' method='post'>
             Username:<input type='text' name='user' /><br>
-            Password:<input type='password' name='user' /><br>
+            Password:<input type='password' name='pass' /><br>
             <input type='submit' name='sub' value='Submit' />
         </form>
         </body>
