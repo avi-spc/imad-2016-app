@@ -46,9 +46,9 @@ var con=`<?php
     return con;
 }
 app.get('/ui/reg.html', function (req, res) {
-  res.send(createCon(content));
+//  res.send(createCon(content));
     
-});
+//});
 });
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
